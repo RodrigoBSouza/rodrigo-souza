@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rodrigo-b-souza/static/css/main.9b6bed15.css",
-    "main.js": "/rodrigo-b-souza/static/js/main.cbc354a8.js",
-    "static/media/profile.png": "/rodrigo-b-souza/static/media/profile.72f3aa673601009c0928.png",
-    "index.html": "/rodrigo-b-souza/index.html",
-    "main.9b6bed15.css.map": "/rodrigo-b-souza/static/css/main.9b6bed15.css.map",
-    "main.cbc354a8.js.map": "/rodrigo-b-souza/static/js/main.cbc354a8.js.map"
+    "main.css": "/rodrigo-souza/static/css/main.9b6bed15.css",
+    "main.js": "/rodrigo-souza/static/js/main.ea3ecd12.js",
+    "static/media/profile.png": "/rodrigo-souza/static/media/profile.72f3aa673601009c0928.png",
+    "index.html": "/rodrigo-souza/index.html",
+    "main.9b6bed15.css.map": "/rodrigo-souza/static/css/main.9b6bed15.css.map",
+    "main.ea3ecd12.js.map": "/rodrigo-souza/static/js/main.ea3ecd12.js.map"
   },
   "entrypoints": [
     "static/css/main.9b6bed15.css",
-    "static/js/main.cbc354a8.js"
+    "static/js/main.ea3ecd12.js"
   ]
 }
