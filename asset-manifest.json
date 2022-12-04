@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rodrigo-souza/static/css/main.9b6bed15.css",
-    "main.js": "/rodrigo-souza/static/js/main.2e0a1777.js",
+    "main.js": "/rodrigo-souza/static/js/main.7929a2ec.js",
     "static/media/profile.png": "/rodrigo-souza/static/media/profile.72f3aa673601009c0928.png",
     "index.html": "/rodrigo-souza/index.html",
     "main.9b6bed15.css.map": "/rodrigo-souza/static/css/main.9b6bed15.css.map",
-    "main.2e0a1777.js.map": "/rodrigo-souza/static/js/main.2e0a1777.js.map"
+    "main.7929a2ec.js.map": "/rodrigo-souza/static/js/main.7929a2ec.js.map"
   },
   "entrypoints": [
     "static/css/main.9b6bed15.css",
-    "static/js/main.2e0a1777.js"
+    "static/js/main.7929a2ec.js"
   ]
 }
